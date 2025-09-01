@@ -25,5 +25,11 @@ pip freeze > requirements.txt
 ### Instalar dependências
 
 ```bash
+pip install python-dotenv requests pydantic
+```
+
+ou
+
+```bash
 pip install -r requirements.txt
 ```
