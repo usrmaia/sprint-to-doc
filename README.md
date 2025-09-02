@@ -25,7 +25,7 @@ pip freeze > requirements.txt
 ### Instalar dependências
 
 ```bash
-pip install python-dotenv requests pydantic
+pip install python-dotenv requests pydantic agno unstructured markdown sqlalchemy qdrant-client ollama fastembed google-genai openai
 ```
 
 ou
