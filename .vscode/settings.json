@@ -10,6 +10,7 @@
     "conventionalCommits.scopes": [
         "proj",
         "clickup",
-        "agent"
+        "agent",
+        "api",
     ]
 }
